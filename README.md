@@ -1,24 +1,20 @@
-# junior_projects
+# Тестовое задание для Junior_projects
 
-## Project setup
+https://notabene91.github.io/libraries/
+
+
+## Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Локальный сервер
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
