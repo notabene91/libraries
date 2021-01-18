@@ -3,7 +3,7 @@
 https://notabene91.github.io/libraries/
 
 
-## Установка зависимостей
+### Установка зависимостей
 ```
 npm install
 ```
